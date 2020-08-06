@@ -1,0 +1,6 @@
+F:\computer science\udacity\FCND4-DroneEstimation-master\project\x64\Debug\Simulator.exe
+F:\computer science\udacity\FCND4-DroneEstimation-master\project\x64\Debug\Simulator.pdb
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter4 Estimation\project\FCND4-DroneEstimation-master\project\x64\Debug\Simulator.exe
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter4 Estimation\project\FCND4-DroneEstimation-master\project\x64\Debug\Simulator.pdb
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter4 Estimation\project\FCND4-DroneEstimation my solution\project\x64\Debug\Simulator.exe
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter4 Estimation\project\FCND4-DroneEstimation my solution\project\x64\Debug\Simulator.pdb
